@@ -1,21 +1,17 @@
-<!DOCTYPE.html>
 <html>
 <head> 
-<title> Login</title>
+<title>Registration form </title>
 <link rel ="stylesheet" href="style.css"> 
-<!DOCTYPE.html> 
-</head>
+ </head>
 <body>
- <div class="login-page">
- <div class="form">
-      
 
-<form class="login-form">
+ <div class="form">
+      <form class="register-form">
   <input type= "text" placeholder= "username" />
   <input type= "text" placeholder= "password" />
-  
-   <button> Login </button>
-<p class="message"> Not yet registered? <a href="1.html">Register</a>  </p>
+  <input type= "text" placeholder= "email id" />
+   <button> Create </button>
+<p class="message"> Already registered? <a href="#">Login</a>  </p>
 </form>
 
 </div>

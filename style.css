@@ -12,9 +12,11 @@ padding: 10% 0 0;
 margin: auto;
 }
 
+
+
 .form
 {
-position: relative;
+position: center;
 z-index: 1;
 background: #ffffff;
 max-width: 360px;
